@@ -162,6 +162,7 @@ nftset=/intel.yt/4#inet#fw4#vpn_domains
 nftset=/ipstatp.com/4#inet#fw4#vpn_domains
 nftset=/isnssdk.com/4#inet#fw4#vpn_domains
 nftset=/jetbrains.com/4#inet#fw4#vpn_domains
+nftset=/jetbrains.space/4#inet#fw4#vpn_domains
 nftset=/licdn.com/4#inet#fw4#vpn_domains
 nftset=/linkedin.com/4#inet#fw4#vpn_domains
 nftset=/lnkd.in/4#inet#fw4#vpn_domains
