@@ -6,6 +6,7 @@ nftset=/facebook.com/4#inet#fw4#vpn_domains
 nftset=/fbcdn.net/4#inet#fw4#vpn_domains
 nftset=/grok.com/4#inet#fw4#vpn_domains
 nftset=/instagram.com/4#inet#fw4#vpn_domains
+nftset=/intel.com/4#inet#fw4#vpn_domains
 nftset=/jetbrains.com/4#inet#fw4#vpn_domains
 nftset=/licdn.com/4#inet#fw4#vpn_domains
 nftset=/linkedin.com/4#inet#fw4#vpn_domains
