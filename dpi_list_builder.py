@@ -8,7 +8,8 @@ def make_dpi_list() -> None:
         if filepath.is_file():
             with open(filepath, 'r', encoding='utf-8') as file:
                 for line in file:
-                    domains.append(line.strip())
+                    if line.strip():
+                        domains.append(line.strip())
 
     domains.sort()
 

@@ -3,13 +3,13 @@ from pathlib import Path
 
 def make_proxy_list() -> None:
     domains = []
-
     src_dir = Path("proxy")
     for filepath in src_dir.iterdir():
         if filepath.is_file():
             with open(filepath, 'r', encoding='utf-8') as file:
                 for line in file:
-                    domains.append(line.strip())
+                    if line.strip():
+                        domains.append(line.strip())
 
     domains.sort()
 
