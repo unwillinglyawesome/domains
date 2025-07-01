@@ -165,3 +165,4 @@ nftset=/oaistatic.com/4#inet#fw4#vpn_domains
 nftset=/openai.com/4#inet#fw4#vpn_domains
 nftset=/proton.me/4#inet#fw4#vpn_domains
 nftset=/protonmail.com/4#inet#fw4#vpn_domains
+nftset=/xerox.com/4#inet#fw4#vpn_domains
