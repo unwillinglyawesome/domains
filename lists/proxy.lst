@@ -1,5 +1,6 @@
 nftset=/.ua/4#inet#fw4#vpn_domains
 nftset=/broadcom.com/4#inet#fw4#vpn_domains
+nftset=/buymeacoffee.com/4#inet#fw4#vpn_domains
 nftset=/bytedapm.com/4#inet#fw4#vpn_domains
 nftset=/bytegecko-i18n.com/4#inet#fw4#vpn_domains
 nftset=/byteoversea.com/4#inet#fw4#vpn_domains
