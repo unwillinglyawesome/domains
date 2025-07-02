@@ -182,6 +182,7 @@ nftset=/proton.me/4#inet#fw4#vpn_domains
 nftset=/protonmail.com/4#inet#fw4#vpn_domains
 nftset=/sgpstatp.com/4#inet#fw4#vpn_domains
 nftset=/snssdk.com/4#inet#fw4#vpn_domains
+nftset=/stalker2.com/4#inet#fw4#vpn_domains
 nftset=/tik-tokapi.com/4#inet#fw4#vpn_domains
 nftset=/tiktok.com/4#inet#fw4#vpn_domains
 nftset=/tiktokcdn-us.com/4#inet#fw4#vpn_domains
