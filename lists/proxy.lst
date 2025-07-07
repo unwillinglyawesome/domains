@@ -14,6 +14,7 @@ nftset=/corsair.com/4#inet#fw4#vpn_domains
 nftset=/deepl.com/4#inet#fw4#vpn_domains
 nftset=/designer.microsoft.com/4#inet#fw4#vpn_domains
 nftset=/facebook.com/4#inet#fw4#vpn_domains
+nftset=/fast.com/4#inet#fw4#vpn_domains
 nftset=/fbcdn.net/4#inet#fw4#vpn_domains
 nftset=/gemini.google.com/4#inet#fw4#vpn_domains
 nftset=/grok.com/4#inet#fw4#vpn_domains
