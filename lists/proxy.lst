@@ -3,6 +3,7 @@ nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/1337x.to/4#inet#fw4#vpn_domains
 nftset=/4freerussia.org/4#inet#fw4#vpn_domains
 nftset=/4pda.to/4#inet#fw4#vpn_domains
+nftset=/adguard.com/4#inet#fw4#vpn_domains
 nftset=/ai-chat.bsg.brave.com/4#inet#fw4#vpn_domains
 nftset=/broadcom.com/4#inet#fw4#vpn_domains
 nftset=/buymeacoffee.com/4#inet#fw4#vpn_domains
