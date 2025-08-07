@@ -187,6 +187,7 @@ nftset=/ldoceonline.com/4#inet#fw4#vpn_domains
 nftset=/licdn.com/4#inet#fw4#vpn_domains
 nftset=/linkedin.com/4#inet#fw4#vpn_domains
 nftset=/lnkd.in/4#inet#fw4#vpn_domains
+nftset=/meduza.io/4#inet#fw4#vpn_domains
 nftset=/meta.com/4#inet#fw4#vpn_domains
 nftset=/muscdn.com/4#inet#fw4#vpn_domains
 nftset=/musical.ly/4#inet#fw4#vpn_domains
