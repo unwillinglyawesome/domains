@@ -218,4 +218,5 @@ nftset=/tiktokmusic.app/4#inet#fw4#vpn_domains
 nftset=/tiktokv.com/4#inet#fw4#vpn_domains
 nftset=/tiktokv.us/4#inet#fw4#vpn_domains
 nftset=/ttwebview.com/4#inet#fw4#vpn_domains
+nftset=/typing.com/4#inet#fw4#vpn_domains
 nftset=/xerox.com/4#inet#fw4#vpn_domains
