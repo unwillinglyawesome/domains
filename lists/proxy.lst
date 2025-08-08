@@ -202,6 +202,7 @@ nftset=/oaistatic.com/4#inet#fw4#vpn_domains
 nftset=/openai.com/4#inet#fw4#vpn_domains
 nftset=/proton.me/4#inet#fw4#vpn_domains
 nftset=/protonmail.com/4#inet#fw4#vpn_domains
+nftset=/rutracker.cc/4#inet#fw4#vpn_domains
 nftset=/rutracker.org/4#inet#fw4#vpn_domains
 nftset=/sgpstatp.com/4#inet#fw4#vpn_domains
 nftset=/simplix.info/4#inet#fw4#vpn_domains
