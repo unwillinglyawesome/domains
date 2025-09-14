@@ -7,6 +7,7 @@ nftset=/adguard.com/4#inet#fw4#vpn_domains
 nftset=/ai-chat.bsg.brave.com/4#inet#fw4#vpn_domains
 nftset=/bosch.com/4#inet#fw4#vpn_domains
 nftset=/bosch.tech/4#inet#fw4#vpn_domains
+nftset=/brainyquote.com/4#inet#fw4#vpn_domains
 nftset=/broadcom.com/4#inet#fw4#vpn_domains
 nftset=/buymeacoffee.com/4#inet#fw4#vpn_domains
 nftset=/bytedapm.com/4#inet#fw4#vpn_domains
