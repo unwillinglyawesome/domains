@@ -80,7 +80,6 @@ nftset=/foxnews.com/4#inet#fw4#vpn_domains
 nftset=/fumail.co/4#inet#fw4#vpn_domains
 nftset=/gamedownloads-rockstargames-com.akamaized.net/4#inet#fw4#vpn_domains
 nftset=/gemini.google.com/4#inet#fw4#vpn_domains
-nftset=/gemini.google.com/4#inet#fw4#vpn_domains
 nftset=/ggpht.cn/4#inet#fw4#vpn_domains
 nftset=/ggpht.com/4#inet#fw4#vpn_domains
 nftset=/githubcopilot.com/4#inet#fw4#vpn_domains
