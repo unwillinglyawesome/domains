@@ -5,6 +5,7 @@ nftset=/4freerussia.org/4#inet#fw4#vpn_domains
 nftset=/4pda.to/4#inet#fw4#vpn_domains
 nftset=/adguard.com/4#inet#fw4#vpn_domains
 nftset=/ads-twitter.com/4#inet#fw4#vpn_domains
+nftset=/adtidy.org/4#inet#fw4#vpn_domains
 nftset=/ai-chat.bsg.brave.com/4#inet#fw4#vpn_domains
 nftset=/ai.google.dev/4#inet#fw4#vpn_domains
 nftset=/aisandbox-pa.googleapis.com/4#inet#fw4#vpn_domains
