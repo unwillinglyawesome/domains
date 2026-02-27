@@ -392,6 +392,7 @@ nftset=/xerox.com/4#inet#fw4#vpn_domains
 nftset=/xhamster.com/4#inet#fw4#vpn_domains
 nftset=/xnxx-cdn.com/4#inet#fw4#vpn_domains
 nftset=/xnxx.com/4#inet#fw4#vpn_domains
+nftset=/xvideos-cdn.com/4#inet#fw4#vpn_domains
 nftset=/xvideos.com/4#inet#fw4#vpn_domains
 nftset=/youporn.com/4#inet#fw4#vpn_domains
 nftset=/youtu.be/4#inet#fw4#vpn_domains
