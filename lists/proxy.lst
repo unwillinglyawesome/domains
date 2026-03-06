@@ -384,6 +384,7 @@ nftset=/unsplash.com/4#inet#fw4#vpn_domains
 nftset=/usercontent.dev/4#inet#fw4#vpn_domains
 nftset=/video.google.com/4#inet#fw4#vpn_domains
 nftset=/vine.co/4#inet#fw4#vpn_domains
+nftset=/vsassets.io/4#inet#fw4#vpn_domains
 nftset=/wide-youtube.l.google.com/4#inet#fw4#vpn_domains
 nftset=/withyoutube.com/4#inet#fw4#vpn_domains
 nftset=/x.ai/4#inet#fw4#vpn_domains
