@@ -256,6 +256,7 @@ nftset=/intel.vn/4#inet#fw4#vpn_domains
 nftset=/intel.vu/4#inet#fw4#vpn_domains
 nftset=/intel.wf/4#inet#fw4#vpn_domains
 nftset=/intel.yt/4#inet#fw4#vpn_domains
+nftset=/internetdownloadmanager.com/4#inet#fw4#vpn_domains
 nftset=/ipstatp.com/4#inet#fw4#vpn_domains
 nftset=/isnssdk.com/4#inet#fw4#vpn_domains
 nftset=/itch.io/4#inet#fw4#vpn_domains
