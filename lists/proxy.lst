@@ -334,6 +334,7 @@ nftset=/t.co/4#inet#fw4#vpn_domains
 nftset=/t.me/4#inet#fw4#vpn_domains
 nftset=/tailscale.com/4#inet#fw4#vpn_domains
 nftset=/tdesktop.com/4#inet#fw4#vpn_domains
+nftset=/techsmith.com/4#inet#fw4#vpn_domains
 nftset=/telega.one/4#inet#fw4#vpn_domains
 nftset=/telegra.ph/4#inet#fw4#vpn_domains
 nftset=/telegram-cdn.org/4#inet#fw4#vpn_domains
