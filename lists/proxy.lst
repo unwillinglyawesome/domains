@@ -317,6 +317,7 @@ nftset=/quiz.directory/4#inet#fw4#vpn_domains
 nftset=/quora.com/4#inet#fw4#vpn_domains
 nftset=/quoracdn.net/4#inet#fw4#vpn_domains
 nftset=/robinfrontend-pa.googleapis.com/4#inet#fw4#vpn_domains
+nftset=/rottentomatoes.com/4#inet#fw4#vpn_domains
 nftset=/rutor.info/4#inet#fw4#vpn_domains
 nftset=/rutor.is/4#inet#fw4#vpn_domains
 nftset=/rutracker.cc/4#inet#fw4#vpn_domains
