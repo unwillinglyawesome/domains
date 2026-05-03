@@ -271,6 +271,7 @@ nftset=/labs.google/4#inet#fw4#vpn_domains
 nftset=/ldoceonline.com/4#inet#fw4#vpn_domains
 nftset=/legra.ph/4#inet#fw4#vpn_domains
 nftset=/licdn.com/4#inet#fw4#vpn_domains
+nftset=/linguee.com/4#inet#fw4#vpn_domains
 nftset=/linkedin.com/4#inet#fw4#vpn_domains
 nftset=/linktr.ee/4#inet#fw4#vpn_domains
 nftset=/lnkd.in/4#inet#fw4#vpn_domains
