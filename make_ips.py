@@ -1,5 +1,4 @@
 import ipaddress
-from pprint import pprint
 from urllib.request import urlopen, Request
 
 
