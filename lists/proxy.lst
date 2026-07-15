@@ -40,6 +40,7 @@ nftset=/chess.com/4#inet#fw4#vpn_domains
 nftset=/claude.com/4#inet#fw4#vpn_domains
 nftset=/clients6.google.com/4#inet#fw4#vpn_domains
 nftset=/cloudflare-ech.com/4#inet#fw4#vpn_domains
+nftset=/cloudfront.net/4#inet#fw4#vpn_domains
 nftset=/cms-twdigitalassets.com/4#inet#fw4#vpn_domains
 nftset=/cock.li/4#inet#fw4#vpn_domains
 nftset=/comments.app/4#inet#fw4#vpn_domains
